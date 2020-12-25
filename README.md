@@ -1,2 +1,2 @@
 # Deep-learning-models
-Some deep learning models implemented by Python.
+Some deep learning models implemented using Python.
